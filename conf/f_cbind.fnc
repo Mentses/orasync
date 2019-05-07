@@ -11,3 +11,4 @@ EXCEPTION
     RETURN NULL;
 END F_CBIND;
 /
+exit;                                                             
