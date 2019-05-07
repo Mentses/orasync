@@ -1,4 +1,8 @@
-rem 清理临时文件...
+md ctab
+md ctl
+md data
+md log
+md sql
 del /Q sql\*.sql
 del /Q data\*.csv
 del /Q ctl\*.ctl
